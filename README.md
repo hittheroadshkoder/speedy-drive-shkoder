@@ -35,7 +35,7 @@
 </head>
 <body>
   <header>
-    <h1>SpeedyDrive Car Rentals – Shkodër, Albania</h1>
+    <h1> Gjorgji Cars - Car Rentals – Shkodër, Albania</h1>
     <nav>
       <a href="#home">Home</a>
       <a href="#cars">Cars</a>
@@ -50,7 +50,7 @@
 
   <!-- English Content -->
   <section class="lang en" id="home">
-    <h2>Welcome to SpeedyDrive!</h2>
+    <h2>Welcome to Gjorgji Cars!</h2>
     <p>Rent your ideal car quickly and affordably. Whether you're planning a business trip or a relaxing holiday, we have the right vehicle for you.</p>
   </section>
 
@@ -100,7 +100,7 @@
 
   <!-- Albanian Content -->
   <section class="lang sq hidden" id="home">
-    <h2>Mirësevini në SpeedyDrive!</h2>
+    <h2>Mirësevini në Gjorgji Cars!</h2>
     <p>Merr me qira makinën tuaj në mënyrë të shpejtë dhe të përballueshme. Për udhëtime biznesi apo pushime, kemi automjetin e duhur për ju.</p>
   </section>
 
