@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="google-site-verification" content="j8wJCiLTFIvrqtx81YIfZVDvnhBW1qAJKeBwV2fFPUo" />
-  <title>SpeedyDrive - Car Rentals in Shkodër, Albania</title>
+  <title> Gjorgji Cars - Car Rentals in Shkodër, Albania</title>
   <meta name="description" content="SpeedyDrive offers car rentals in Shkodër, Albania. Switch between English and Albanian.">
   <meta name="robots" content="index, follow">
   <meta name="author" content="SpeedyDrive Car Rentals">
