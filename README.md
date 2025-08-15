@@ -7,7 +7,7 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <meta name="description" content="Gjorgji Cars - Car Rentals offers car rentals in Shkodër, Albania. Switch between English and Albanian.">
   <meta name="robots" content="index, follow">
-  <meta name="author" content="Gjorgji Cars - Car Rentals">
+  <meta name="author" content="Gjorgji Cars - Car Rental">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; color: #333; }
