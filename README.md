@@ -73,21 +73,6 @@
     </ul>
   </section>
 
-  <section class="lang en" id="book">
-    <h2>Book a Car</h2>
-    <form>
-      <label>Full Name:</label>
-      <input type="text" required>
-      <label>Email:</label>
-      <input type="email" required>
-      <label>Pick-up Date:</label>
-      <input type="date">
-      <label>Drop-off Date:</label>
-      <input type="date">
-      <input type="submit" value="Book Now">
-    </form>
-  </section>
-
   <section class="lang en" id="contact">
     <h2>Contact Us</h2>
     <p><strong>Phone:</strong> 00355692352601</p>
@@ -121,21 +106,6 @@
       <li><strong>Seat Altea</strong> – <span class="available">Në dispozicion</span></li>
       <li><strong>Nissan QASHQAI</strong> – <span class="available">Në dispozicion</span></li>
     </ul>
-  </section>
-
-  <section class="lang sq hidden" id="book">
-    <h2>Rezervo një Makinë</h2>
-    <form>
-      <label>Emri i Plotë:</label>
-      <input type="text" required>
-      <label>Email:</label>
-      <input type="email" required>
-      <label>Data e Marrjes:</label>
-      <input type="date">
-      <label>Data e Kthimit:</label>
-      <input type="date">
-      <input type="submit" value="Rezervo Tani">
-    </form>
   </section>
 
   <section class="lang sq hidden" id="contact">
