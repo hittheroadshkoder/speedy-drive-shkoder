@@ -37,6 +37,7 @@
 <body>
   <header>
     <h1> Gjorgji Cars - Car Rental – Shkodër, Albania</h1>
+       <img src="mercedes-benz-e-class-model.jpg" alt="Mercedes-Benz E-Class" style="width:300px; height:auto; margin-top:10px;">
     <nav>
       <a href="#home">Home</a>
       <a href="#cars">Cars</a>
