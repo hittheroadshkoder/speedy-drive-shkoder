@@ -36,7 +36,7 @@
 </head>
 <body>
   <header>
-    <h1> Gjorgji Cars - Car Rentals – Shkodër, Albania</h1>
+    <h1> Gjorgji Cars - Car Rental – Shkodër, Albania</h1>
     <nav>
       <a href="#home">Home</a>
       <a href="#cars">Cars</a>
